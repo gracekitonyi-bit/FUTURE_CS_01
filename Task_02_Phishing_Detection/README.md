@@ -92,6 +92,3 @@ High
 
 ---
 
-## 5. Awareness & Prevention Recommendations
-
-(To be filled)
