@@ -91,6 +91,14 @@ High
 7. Implement employee phishing awareness training programs.
 
 ---
+
+
+## 6. Evidence
+
+### VirusTotal URL Scan
+![VirusTotal Scan](virustotal_scan.png)
+
+
 ---
 
 ## 7. Conclusion
@@ -101,8 +109,3 @@ Through manual inspection and third-party verification (VirusTotal), the suspici
 
 User awareness, domain verification, and multi-factor authentication remain critical defenses against credential harvesting attacks.
 ---
-
-## 6. Evidence
-
-### VirusTotal URL Scan
-![VirusTotal Scan](virustotal_scan.png)
