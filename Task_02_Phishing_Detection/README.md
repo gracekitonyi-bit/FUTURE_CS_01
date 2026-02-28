@@ -6,8 +6,26 @@ To analyze a suspicious email and identify phishing indicators, attack technique
 ---
 
 ## 1. Phishing Email Sample
+Subject: URGENT: Account Suspension Notice – Immediate Action Required
 
-(Email content will be inserted here)
+From: security@paypaI-support.com
+To: user@example.com
+Date: March 25, 2026
+
+Dear Valued Customer,
+
+We detected unusual activity on your PayPal account. For your protection, your account has been temporarily suspended.
+
+To restore access immediately, please verify your account information by clicking the secure link below:
+
+http://paypal-account-verification.secure-login-alert.com
+
+Failure to verify your account within 24 hours will result in permanent account closure.
+
+Thank you for choosing PayPal.
+
+Sincerely,
+PayPal Security Team
 
 ---
 
