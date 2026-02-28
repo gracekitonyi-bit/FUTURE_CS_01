@@ -91,7 +91,15 @@ High
 7. Implement employee phishing awareness training programs.
 
 ---
+---
 
+## 7. Conclusion
+
+This analysis demonstrates how phishing attacks leverage domain spoofing, urgency, and social engineering techniques to deceive victims. 
+
+Through manual inspection and third-party verification (VirusTotal), the suspicious URL exhibited clear phishing characteristics.
+
+User awareness, domain verification, and multi-factor authentication remain critical defenses against credential harvesting attacks.
 ---
 
 ## 6. Evidence
