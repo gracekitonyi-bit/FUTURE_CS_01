@@ -80,7 +80,6 @@ High — The use of urgency, spoofed domains, and social engineering increases t
 Overall Risk Level:
 High
 
-
 ## 5. Awareness & Prevention Recommendations
 
 1. Always verify sender email addresses carefully.
