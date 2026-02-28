@@ -107,19 +107,12 @@ Reasoning:
 
 ---
 
-## 6. Evidence
+---
 
-### Test 1 — /users
-![Test 1](api_test1_users.png)
+## 6. Testing Environment
 
-### Test 2 — /users/1
-![Test 2](api_test2_user1.png)
-
-### Test 3 — /users/9999
-![Test 3](api_test3_user9999.png)
-
-### Test 4 — Headers
-![Test 4](api_test4_headers.png)
-
-## 6. Evidence
-(To be filled with screenshots)
+Operating System: Debian Linux  
+Tool Used: curl (command-line HTTP client)  
+API Target: JSONPlaceholder (Public Test API)  
+Testing Scope: Passive observation and endpoint inspection only.  
+No authentication bypass, exploitation, or brute-force testing was performed.
